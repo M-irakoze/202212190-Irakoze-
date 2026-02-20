@@ -1,0 +1,22 @@
+/* styles.css */
+img {
+  height: 20%;
+  width: 20%;
+}
+body{
+    text-align: center;
+}
+li{
+  text-align: center;
+}
+fieldset{
+  width: 1400px;
+  background-color: #2222;
+  margin-left: 200px;
+}
+.a{
+  display: inline-block;
+}
+table{
+  width: 500px;
+}
